@@ -41,4 +41,4 @@ yarn-debug.log*
 .yarn-integrity
 Removeria app/assets/images/000.jpg
 Removeria app/views/users/show_section_1.html.erb
-./idea
+/idea
